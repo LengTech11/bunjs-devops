@@ -1,4 +1,4 @@
-# bun-express-test
+# bunjs-devops
 
 To install dependencies:
 
